@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using TailSpin.SpaceGame.Web.Models;
 using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+
 
 namespace TailSpin.SpaceGame.Web
 {
